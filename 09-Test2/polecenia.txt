@@ -1,0 +1,18 @@
+c1.
+dwie metody statyczne m1(int[] arr1,int[] arr2),m2(int[] arr)
+m1 zwraca ile liczb z tabeli1 jest w tabeli2
+m2 zwraca drug¹ najwieksza liczbe z tabeli
+
+c2.
+metoda statyczna zwracajace prawde jezeli suma licz dodatnich jest wieksza niz suma
+wartosci bezwglednej liczb ujemnych lub falsz w przeciwnym wypadku
+
+c3.
+metoda m1() zwraca nazwe pliku m2() zwraca rozszerzenie ->plik="nazwa.exe" m1()="nazwa",m2()=".exe"
+
+c4.tabela ocen np. [1,5,4,3,2], usuwa najmniejsza i najwieksza i sumuje,srednia
+
+c5.family
+c6.
+c7.
+vehicle z mock
